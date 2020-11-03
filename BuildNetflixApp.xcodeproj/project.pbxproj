@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		313577282550DE94000F11E4 /* TopMoviePreview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 313577272550DE94000F11E4 /* TopMoviePreview.swift */; };
 		31588D1C25450AF100571E44 /* BuildNetflixAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31588D0925450AF100571E44 /* BuildNetflixAppApp.swift */; };
 		31588D1D25450AF100571E44 /* BuildNetflixAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31588D0925450AF100571E44 /* BuildNetflixAppApp.swift */; };
 		31588D1E25450AF100571E44 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31588D0A25450AF100571E44 /* ContentView.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		313577272550DE94000F11E4 /* TopMoviePreview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopMoviePreview.swift; sourceTree = "<group>"; };
 		31588D0925450AF100571E44 /* BuildNetflixAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildNetflixAppApp.swift; sourceTree = "<group>"; };
 		31588D0A25450AF100571E44 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		31588D0B25450AF100571E44 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				31588D2C25450B8200571E44 /* HomeView.swift */,
+				313577272550DE94000F11E4 /* TopMoviePreview.swift */,
 				31588D4C254510FD00571E44 /* HomeVM.swift */,
 				31588D3D25450DF900571E44 /* Movie.swift */,
 				31588D4225450E6500571E44 /* StandardHomeMovie.swift */,
@@ -220,6 +223,7 @@
 				31588D4D254510FD00571E44 /* HomeVM.swift in Sources */,
 				31588D1E25450AF100571E44 /* ContentView.swift in Sources */,
 				31588D4325450E6500571E44 /* StandardHomeMovie.swift in Sources */,
+				313577282550DE94000F11E4 /* TopMoviePreview.swift in Sources */,
 				31588D3E25450DF900571E44 /* Movie.swift in Sources */,
 				31588D1C25450AF100571E44 /* BuildNetflixAppApp.swift in Sources */,
 			);
